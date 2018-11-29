@@ -577,7 +577,7 @@ var BaseConfig = {
 
   // Rebound spring parameters when transitioning FROM this scene
   springFriction: 26,
-  springTension: 200,
+  springTension: 800,
 
   // Velocity to start at when transitioning without gesture
   defaultTransitionVelocity: 1.5,
